@@ -1,0 +1,14 @@
+{
+  "name": "friendly-words-cli",
+  "version": "0.1.0",
+  "description": "Prints friendly words.",
+  "author": "Shota Hamada <me@maku693.net>",
+  "license": "MIT",
+  "bin": {
+    "friendly-words": "bin/friendly-words.js"
+  },
+  "dependencies": {
+    "friendly-words": "^1.2.0",
+    "yargs": "^17.3.1"
+  }
+}
