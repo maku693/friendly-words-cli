@@ -1,6 +1,6 @@
 {
   "name": "friendly-words-cli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Prints friendly words.",
   "author": "Shota Hamada <me@maku693.net>",
   "license": "MIT",
